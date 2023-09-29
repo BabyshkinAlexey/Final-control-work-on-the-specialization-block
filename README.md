@@ -7,6 +7,7 @@
 Переименовать файл, дав ему новое имя (Друзья человека).
 
 ![task1](pictures\1.png)
+![task1](https://github.com/BabyshkinAlexey/Final-control-work-on-the-specialization-block/blob/main/pictures/1.png)
 
 2. Создать директорию, переместить файл туда.
 
