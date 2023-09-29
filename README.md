@@ -6,12 +6,11 @@
 ослы, а затем объединить их. Просмотреть содержимое созданного файла.
 Переименовать файл, дав ему новое имя (Друзья человека).
 
-![task1](pictures\1.png)
 ![task1](https://github.com/BabyshkinAlexey/Final-control-work-on-the-specialization-block/blob/main/pictures/1.png)
 
 2. Создать директорию, переместить файл туда.
 
-![task2](pictures\2.png)
+![task2](https://github.com/BabyshkinAlexey/Final-control-work-on-the-specialization-block/blob/main/pictures/2.png)
 
 3. Подключить дополнительный репозиторий MySQL. Установить любой пакет
 из этого репозитория.
@@ -72,7 +71,8 @@ sudo dpkg -r docker-ce-cli
 животных войдут классы: собаки, кошки, хомяки, а в класс вьючные животные
 войдут: Лошади, верблюды и ослы.
 
-![task2](pictures\diogram.png)
+
+![task3](https://github.com/BabyshkinAlexey/Final-control-work-on-the-specialization-block/blob/main/pictures/diogram.png)
 
 7. В подключенном MySQL репозитории создать базу данных “Друзья
 человека”
